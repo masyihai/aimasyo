@@ -1,7 +1,7 @@
 {
   "name": "Aimasyo",
   "short_name": "Aimasyo",
-  "description": "Plan hangouts. Find when everyone's free.",
+  "description": "Make planning easier.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
