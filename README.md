@@ -1,8 +1,8 @@
-# Kumpul
+# 会いましょ！
 
-> "Next week lah" never actually happens.
+> Make planning easier.
 
-**Kumpul** is a lightweight group hangout planner. Mark your free days, see when everyone overlaps, and lock in a date — no group chat chaos required.
+**Aimasyo** is a lightweight group hangout planner. Mark your free days, see when everyone overlaps, and lock in a date — no group chat chaos required.
 
 <details>
   <summary>Table of Contents</summary>
@@ -26,7 +26,7 @@
 - **Invite links** — share a link, admin approves who gets in
 - **PWA** — installable on mobile, works offline
 
-<p align="right">(<a href="#kumpul">back to top</a>)</p>
+<p align="right">(<a href="#aimasyo">back to top</a>)</p>
 ---
 
 ## How it works
